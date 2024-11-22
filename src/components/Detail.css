@@ -1,0 +1,10 @@
+.blog-image {
+  width: 100%;
+  height: auto;
+}
+@media (min-width: 800px) {
+  .blog-image {
+    width: 800px;
+    margin: 0 auto;
+  }
+}
